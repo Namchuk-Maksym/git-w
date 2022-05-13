@@ -1,3 +1,1 @@
-def f(x):
-    return x
-a=1
+g=0
